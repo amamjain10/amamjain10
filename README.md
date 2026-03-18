@@ -22,6 +22,35 @@
 
 <hr>
 
+<h2>💼 Internships</h2>
+
+<ul>
+
+  <br>
+
+  <li>
+    <b>🛰️ Intern – ISRO (Indian Space Research Organisation)</b>
+    <ul>
+      <li>Gained exposure to space research technologies and real-world engineering systems</li>
+      <li>Worked on problem-solving and technical analysis in a research-oriented environment</li>
+      <li>Learned industry-level practices and advanced technical concepts</li>
+    </ul>
+  </li>
+
+  <br>
+
+  <li>
+    <b>🌱 Intern – YoungMinds</b>
+    <ul>
+      <li>Worked on innovative projects and enhanced problem-solving skills</li>
+      <li>Collaborated with a team to develop practical solutions</li>
+      <li>Improved understanding of real-world application development</li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
+
 <h2>🛠️ Tech Stack</h2>
 
 <p>
@@ -48,26 +77,6 @@
   <li><b>📘 LeetCode Solutions</b><br>
   Collection of DSA problems solved for interview preparation.</li>
 </ul>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amamjain10&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amamjain10&theme=radical" alt="streak"/>
-</p>
-
-<hr>
-
-<h2>🔥 Coding Activity</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amamjain10&theme=react-dark" />
-</p>
 
 <hr>
 
